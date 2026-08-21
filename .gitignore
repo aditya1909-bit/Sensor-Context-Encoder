@@ -1,0 +1,11 @@
+.DS_Store
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+data/
+runs/
+results/*.json
+results/*.csv
+results/*.md
+results-*/
